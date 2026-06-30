@@ -65,7 +65,7 @@ The dataset contains **3,000 environmental incident records** with the following
 
 ✅ State-wise Environmental Damage
 
-✅ State-wise EAQI Status
+✅ State-wise AQI Status
 
 ✅ State-wise Destruction Density
 
