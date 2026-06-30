@@ -95,7 +95,11 @@ The dataset contains **3,000 environmental incident records** with the following
 
 ## 📸 Dashboard Preview
 
-![Alt Text](images/screenshot.png)
+![Alt Text](Screenshots/img1.png)
+![Alt Text](Screenshots/img2.png)
+![Alt Text](Screenshots/img3.png)
+![Alt Text](Screenshots/img4.png)
+![Alt Text](Screenshots/img5.png)
 
 
 ---
@@ -110,7 +114,7 @@ The dataset contains **3,000 environmental incident records** with the following
 │
 │
 ├── Screenshots/
-│      └──  
+│      └──  img1.png, img2.png, img3.png, img4.png, img5.png,
 │
 └── README.md
 ```
